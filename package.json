@@ -4,6 +4,7 @@
   "description": "Angular Virtual Scroll Example/Demo by Sangwin Gawande",
   "author": "Sangwin Gawande (https://sangw.in)",
   "website": "https://sangw.in",
+  "email": "imsangwin@gmail.com",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
