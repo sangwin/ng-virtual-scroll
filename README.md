@@ -7,6 +7,12 @@
 
  * [Angular Virtual Scroll](https://material.angular.io/cdk/scrolling/overview)
 
+
+## Versions
+
+ * Angular CLI 13
+ * Angular Material 13
+
 -----------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.8.
